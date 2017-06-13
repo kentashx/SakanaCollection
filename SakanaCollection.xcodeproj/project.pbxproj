@@ -102,6 +102,7 @@
 				TargetAttributes = {
 					EE8DE9161EEBEB4200AD9FDD = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = W4W4D9SPYG;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -268,6 +269,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = W4W4D9SPYG;
 				INFOPLIST_FILE = SakanaCollection/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.myapp.SakanaCollection;
@@ -280,6 +282,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = W4W4D9SPYG;
 				INFOPLIST_FILE = SakanaCollection/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.myapp.SakanaCollection;

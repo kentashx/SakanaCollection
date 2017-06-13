@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SakanaCollection/FirstViewController.swift"
-            timestampString = "518784310.571311"
+            timestampString = "519032229.402388"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
             landmarkName = "collectionView(_:cellForItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,61 +26,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SakanaCollection/FirstViewController.swift"
-            timestampString = "518784310.571311"
+            timestampString = "519032229.402388"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "SakanaCollection/FirstViewController.swift"
-            timestampString = "518784310.571311"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
-            landmarkName = "FirstViewController"
-            landmarkType = "3">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "SakanaCollection.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SakanaCollection.ViewController"
-                  moduleName = "SakanaCollection"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/FirstViewController.swift"
-                  timestampString = "518780717.658685"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "65">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "SakanaCollection.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SakanaCollection.ViewController&gt;"
-                  moduleName = "SakanaCollection"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/FirstViewController.swift"
-                  timestampString = "518780717.661242"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "14"
-                  endingLineNumber = "14"
-                  offsetFromSymbolStart = "23">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -97,6 +49,113 @@
             endingLineNumber = "12"
             landmarkName = "SubViewController"
             landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SakanaCollection/FirstViewController.swift"
+            timestampString = "519031066.018327"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.FirstViewController.__deallocating_deinit"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/FirstViewController.swift"
+                  timestampString = "519031066.339236"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.FirstViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SakanaCollection.FirstViewController"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/FirstViewController.swift"
+                  timestampString = "519031066.341063"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.FirstViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SakanaCollection.FirstViewController"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/FirstViewController.swift"
+                  timestampString = "519031066.342926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.FirstViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SakanaCollection.FirstViewController&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/FirstViewController.swift"
+                  timestampString = "519031066.344311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.FirstViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SakanaCollection.FirstViewController&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/FirstViewController.swift"
+                  timestampString = "519031066.345662"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SakanaCollection/FirstViewController.swift"
+            timestampString = "519032229.402388"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

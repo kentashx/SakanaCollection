@@ -11,7 +11,12 @@ import UIKit
 class FirstViewController: UIViewController ,UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout  {
     
     // サムネイル画像のタイトル
-    let photos = ["akebonotyoutyouuo", "akebonotyoutyouuo2","hamakumanomi","hanabirakumanomi","hatatatehaze","hirenagasuzumedai","huuraityoutyouuo","irobudai","kumadori","misujiryuukyuusuzumedai","misujityoutyouuo","mituboshikurosuzumedai"]
+        let photos = ["akebonotyoutyouuo", "akebonotyoutyouuo2","hamakumanomi","hanabirakumanomi","hatatatehaze","hirenagasuzumedai","huuraityoutyouuo","irobudai","kumadori","misujiryuukyuusuzumedai","misujityoutyouuo","mituboshikurosuzumedai"]
+    
+    //画像のタイトル
+        let photos2 = ["アケボノチョウチョウウオ" , "アケボノチョウチョウウオ２","ハマクマノミ" ,"ハナビラクマノミ","ハタタテハゼ" ,"ヒレナガスズメダイ","フウライチョウチョウウオ","イロブダイ","クマドリ","ミスジリュウキュウスズメダイ","ミスジチョウチョウウオ","ミツボシクロスズメダイ" ]
+    //  画像のタイトルの辞書型
+        let photos3 = ["akebonotyoutyouuo":"アケボノチョウチョウウオ" , "akebonotyoutyouuo2":"アケボノチョウチョウウオ２","hamakumanomi":"ハマクマノミ" ,"hanabirakumanomi":"ハナビラクマノミ","hatatatehaze":"ハタタテハゼ" ,"hirenagasuzumedai":"ヒレナガスズメダイ","huuraityoutyouuo":"フウライチョウチョウウオ","irobudai":"イロブダイ","kumadori":"クマドリ","misujiryuukyuusuzumedai":"ミスジリュウキュウスズメダイ","misujityoutyouuo":"ミスジチョウチョウウオ","mituboshikurosuzumedai":"ミツボシクロスズメダイ" ]
     
     var selectedImage: UIImage?
     
@@ -34,7 +39,7 @@ class FirstViewController: UIViewController ,UICollectionViewDataSource, UIColle
         
         // Tag番号を使ってLabelのインスタンス生成
         let label = testCell.contentView.viewWithTag(2) as! UILabel
-        label.text = photos[(indexPath as NSIndexPath).row]
+        label.text = photos2[(indexPath as NSIndexPath).row]
         
         
         return testCell
@@ -75,7 +80,7 @@ class FirstViewController: UIViewController ,UICollectionViewDataSource, UIColle
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         // 要素数を入れる、要素以上の数字を入れると表示でエラーとなる
-        return 12;
+        return photos.count;
     }
     
     
