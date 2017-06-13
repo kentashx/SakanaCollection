@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SakanaCollection/FirstViewController.swift"
-            timestampString = "519032229.402388"
+            timestampString = "519048061.57665"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
             landmarkName = "collectionView(_:cellForItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SakanaCollection/FirstViewController.swift"
-            timestampString = "519032229.402388"
+            timestampString = "519048061.57665"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -42,13 +42,75 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SakanaCollection/SubViewController.swift"
-            timestampString = "518784310.571311"
+            timestampString = "519048061.57665"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "12"
-            endingLineNumber = "12"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
             landmarkName = "SubViewController"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.imageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519050160.717147"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.imageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519050160.718622"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SakanaCollection.SubViewController"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519050160.720196"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "803">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SakanaCollection.SubViewController&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519050160.721618"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "697">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -149,13 +211,264 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "SakanaCollection/FirstViewController.swift"
-            timestampString = "519032229.402388"
+            timestampString = "519048061.57665"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
             landmarkName = "collectionView(_:cellForItemAt:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SakanaCollection/SubViewController.swift"
+            timestampString = "519055793.832687"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SakanaCollection/SubViewController.swift"
+            timestampString = "519055793.832687"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "swipeGestureHandler(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SakanaCollection/SubViewController.swift"
+            timestampString = "519052480.391977"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "SubViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.selectedImg.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImage&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519050159.471039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.selectedImg.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImage&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519050159.472609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SakanaCollection.SubViewController"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519050159.474279"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "855">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SakanaCollection.SubViewController&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519050159.475805"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "743">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SakanaCollection/SubViewController.swift"
+            timestampString = "519055772.407397"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "SubViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.imageView.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519055772.426303"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.imageView.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519055772.42855"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SakanaCollection.SubViewController"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519055772.431778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "803">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SakanaCollection.SubViewController&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519055772.436408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "697">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SakanaCollection/SubViewController.swift"
+            timestampString = "519055776.220276"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SubViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.photosSub.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519055776.225586"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SakanaCollection.SubViewController"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519055776.228868"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SakanaCollection.SubViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SakanaCollection.SubViewController&gt;"
+                  moduleName = "SakanaCollection"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tomy/Documents/Xcode/SakanaCollection/SakanaCollection/SubViewController.swift"
+                  timestampString = "519055776.231027"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "26">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

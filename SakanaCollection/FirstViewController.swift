@@ -19,6 +19,7 @@ class FirstViewController: UIViewController ,UICollectionViewDataSource, UIColle
         let photos3 = ["akebonotyoutyouuo":"アケボノチョウチョウウオ" , "akebonotyoutyouuo2":"アケボノチョウチョウウオ２","hamakumanomi":"ハマクマノミ" ,"hanabirakumanomi":"ハナビラクマノミ","hatatatehaze":"ハタタテハゼ" ,"hirenagasuzumedai":"ヒレナガスズメダイ","huuraityoutyouuo":"フウライチョウチョウウオ","irobudai":"イロブダイ","kumadori":"クマドリ","misujiryuukyuusuzumedai":"ミスジリュウキュウスズメダイ","misujityoutyouuo":"ミスジチョウチョウウオ","mituboshikurosuzumedai":"ミツボシクロスズメダイ" ]
     
     var selectedImage: UIImage?
+    var selectedNumber: NSInteger = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -46,7 +47,7 @@ class FirstViewController: UIViewController ,UICollectionViewDataSource, UIColle
     }
     // Cell が選択された場合
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        
+        selectedNumber = (indexPath as NSIndexPath).row
         // [indexPath.row] から画像名を探し、UImage を設定
         selectedImage = UIImage(named: photos[(indexPath as NSIndexPath).row])
         if selectedImage != nil {
@@ -62,6 +63,7 @@ class FirstViewController: UIViewController ,UICollectionViewDataSource, UIColle
             let subVC: SubViewController = (segue.destination as? SubViewController)!
             // SubViewController のselectedImgに選択された画像を設定する
             subVC.selectedImg = selectedImage
+            subVC.preSelectedNumber=selectedNumber
         }
     }
     
